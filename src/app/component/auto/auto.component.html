@@ -1,7 +1,8 @@
-<section *ngFor="let auto of autos" class="auto-card">
-    <img [src]="auto.imagen" alt="Imagen del auto" width="500">
-    <h2>{{ auto.modelo }}</h2>
-    <p id="descripcion">{{ auto.descripcion }}</p>
-    <p> {{ auto.tipo }}</p>
-</section>
-  
+<div class="auto-card">
+    <img [src]="auto.imagen" alt="Imagen del auto">
+    <div id="hijo">
+        <h2>{{ auto.modelo }}</h2>
+        <p id="descripcion">{{ auto.descripcion }}</p>
+        <p> {{ auto.tipo }}</p>
+    </div>
+</div>

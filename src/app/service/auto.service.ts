@@ -12,7 +12,7 @@ export class AutosService {
       modelo: 'Audi A1',
       imagen: 'assets/audi-a1.jpg',
       descripcion:
-        'El Audi A1 es un utilitario, un coche pequeño, un urbano de vocación premium, una alternativa al Volkswagen Polo, al Fiat 500, al DS3, al Alfa Romeo MiTo y sobre todo al MINI. No te pierdas nuestra guía de compra si estás pensando en adquirir un pequeño utilitario como el A1.El Audi A1 se fabrica en España, concretamente en la fábrica de SEAT en Martorell. ',
+        'El Audi A1 es un tilitario, un coche pequeño, un urbano de vocación premium, una alternativa al Volkswagen Polo, al Fiat 500, al DS3, al Alfa Romeo MiTo y sobre todo al MINI. No te pierdas nuestra guía de compra si estás pensando en adquirir un pequeño utilitario como el A1.El Audi A1 se fabrica en España, concretamente en la fábrica de SEAT en Martorell. ',
       tipo: 'Deportivo',
     },
     {
